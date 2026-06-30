@@ -15,6 +15,6 @@ explanation:
  1,2= argument (argument are the real value which you input)
  return= return the value/which user want to return to the function
 
- 
+ Funa
 
  """

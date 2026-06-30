@@ -1,6 +1,6 @@
 def student_details(**details):
     print(type(details))
-    # ana=><class 'dict'>
+    # ana=> <class 'dict'>
     print(details)
     # ans=>{'name': 'Nigam', 'Grade': 'a', 'Roll_n': 20, 'age': 6}
 
