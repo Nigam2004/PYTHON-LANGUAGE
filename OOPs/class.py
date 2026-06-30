@@ -17,9 +17,10 @@ class bank_acc:
         
     
 
-s=bank_acc("nigam",123,1000)
-print(s.withdrawl(500))
-print(s.deposite(200))
+acc1=bank_acc("nigam",123,1000)
+acc1.balance=5000
+print(acc1.withdrawl(500))
+print(acc1.deposite(200))
 
 
 
