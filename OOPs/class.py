@@ -18,7 +18,7 @@ class bank_acc:
     
 
 acc1=bank_acc("nigam",123,1000)
-acc1.balance=5000
+acc1.balance=5000   
 print(acc1.withdrawl(500))
 print(acc1.deposite(200))
 
