@@ -1,0 +1,14 @@
+{
+    "Student":{
+        "name":"nigam",
+        "roll_n":20,
+        "grade":"A",
+        "mark":25
+    },
+    "S_name":{
+        "name":"ram",
+        "roll_n":27,
+        "grade":"A",
+        "mark":50
+    }
+}
