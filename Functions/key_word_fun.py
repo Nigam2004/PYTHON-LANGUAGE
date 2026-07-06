@@ -1,7 +1,7 @@
 def s_detail(name,age,gender):
     print("name:",name,"age:",age,"gender:",gender)
 s_detail("nigam",20,"m")
-# ans->name: 20 age: m gender: nigam
+# ans->name: nigam age: 20 gender: m
 
 s_detail(20,"m","nigam")
 # ans->name: 20 age: m gender: nigam ,
