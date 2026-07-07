@@ -1,6 +1,7 @@
 
+#open() basicaly used to open the file and perform any type of operation 
+
 file=open("File handling/file.txt",'w')
-y=file.write("nigam")
-# x=file.read()
-# file.close()
-print(y)
+
+# file.close()is basicaly used for close the file after operation complited
+print(file)
