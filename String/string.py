@@ -11,7 +11,7 @@ i"""
 #string[start:end]
 # end-not included
 # ex=5 5-1=4
-
+#Slicing
 
 print(word[0:4])
 """ans-niga
