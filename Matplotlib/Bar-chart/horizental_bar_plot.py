@@ -7,7 +7,7 @@ fruits=["banana","aple","guava","orange"]
 sales=[600,700,300,468]
 print(type(sales))
 
-plt.bar(fruits,sales,color="green", width=0.2)
+plt.barh(fruits,sales,color="green")
 plt.xlabel("Fruits name",color="red")
 plt.ylabel("sales data")
 plt.title("fruits sales Data")
