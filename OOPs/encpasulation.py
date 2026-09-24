@@ -21,7 +21,7 @@ class bank_acc:
     
 
 acc1=bank_acc("nigam",123,1000)
-acc1.balance=5000   
+acc1.balance=5000   ## this 5000 can not be added out side of the class  because balance is private variable
 print(acc1.withdrawl(500))
 print(acc1.deposite(200))
 
